@@ -14,7 +14,11 @@
  </p>
      <br/>
 
-# Hello there 👋  I'm Andres Cardozo
+# Hello there! 👋  I'm Andres Cardozo
+
+<img src=[https://camo.githubusercontent.com/8ecdd60c35d0b624172bcac65e2e592e5a05ba17abf685878c7c14993466e789/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d634f62724a4550397979704854534d43432f67697068792e676966](https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif) />
+
+<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"/>
 
 
 

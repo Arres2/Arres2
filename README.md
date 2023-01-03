@@ -21,9 +21,9 @@
 
 
 
-- 🌱 I’m currently learning React JS
 - 🔭 I’m currently working on [Skilnes](https://skilnes.com/)
-- ⚡ Fun fact **I dabble with music**
+- 🤓 I love to learn new things and teach others what I know.
+- ⚡ Fun fact **I dabble with music and have a background in International Business**
 
 
 <h3 align="left">Languages and Tools:</h3>

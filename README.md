@@ -1,13 +1,4 @@
-# Hello there! 👋  I'm Andres Cardozo
-
-
-
-
-https://player.vimeo.com/video/750222664?h=4299a708ef
-
-
-
-
+<h1 align="center">Hello there! 👋  I'm Andres Cardozo</h1>
 
 <h3 align="left">About Me</h3>
 
@@ -26,7 +17,22 @@ https://player.vimeo.com/video/750222664?h=4299a708ef
   
 </p>
 
-<h3 align="left">Take A Look At My Projects</h3>
+<p>
+  
+   <img src=/Images/SkilnesDashboard.png /> 
+   <img src=/Images/SkilnesWebSite.png />
+   <img src=/Images/HCoutureLanding.png />
+   <img src=/Images/HCoutureHome.png />
+   <img src=/Images/HCoutureDetail.png />
+   <img src=/Images/HCouturePerfil.png />
+   <img src=/Images/HCoutureAdmin.png />
+   <img src=/Images/PokemonHome.png />
+   <img src=/Images/RecipeHome.png />
+   <img src=/Images/VideogamesHome.png />
+  
+</p>
+
+<h3 align="center">Contact Me!</h3>
 
  <p align="center">
       <br/>
@@ -38,3 +44,5 @@ https://player.vimeo.com/video/750222664?h=4299a708ef
          alt="azzar" height="30"/></a>
  </p>
 <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"/>
+
+

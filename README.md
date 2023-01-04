@@ -17,20 +17,51 @@
   
 </p>
 
-<p>
+<a href="https://skilnes-app.com/">
+  <img src=/Images/SkilnesDashboard.png /> 
+</a>
+
+<a href="https://skilnes.com/">
+  <img src=/Images/SkilnesWebSite.png /> 
+</a>
+
+<a href="https://github.com/Arres2/Vuica-Web-Page">
+  <img src=/Images/VuicaHero.png /> 
+</a>
+
+<a href="https://github.com/alexballen/pf-ecommerce-ft30b-frontend">
+  <img src=/Images/HCoutureLanding.png /> 
+</a>
+
+<a href="https://github.com/alexballen/pf-ecommerce-ft30b-frontend">
+  <img src=/Images/HCoutureHome.png /> 
+</a>
+
+<a href="https://github.com/alexballen/pf-ecommerce-ft30b-frontend">
+  <img src=/Images/HCoutureDetail.png /> 
+</a>
+
+<a href="https://github.com/alexballen/pf-ecommerce-ft30b-frontend">
+  <img src=/Images/HCouturePerfil.png /> 
+</a>
+
+<a href="https://github.com/alexballen/pf-ecommerce-ft30b-frontend">
+  <img src=/Images/HCoutureAdmin.png /> 
+</a>
+
+<a href="https://github.com/Arres2/Pokemon-API">
+  <img src=/Images/PokemonHome.png /> 
+</a>
+
+<a href="https://github.com/Arres2/Cookbook_Individual_Project">
+  <img src=/Images/RecipeHome.png /> 
+</a>
+
+<a href="https://github.com/Arres2/Videogames-API-Front">
+  <img src=/Images/VideogamesHome.png /> 
+</a>
   
-   <img src=/Images/SkilnesDashboard.png /> 
-   <img src=/Images/SkilnesWebSite.png />
-   <img src=/Images/HCoutureLanding.png />
-   <img src=/Images/HCoutureHome.png />
-   <img src=/Images/HCoutureDetail.png />
-   <img src=/Images/HCouturePerfil.png />
-   <img src=/Images/HCoutureAdmin.png />
-   <img src=/Images/PokemonHome.png />
-   <img src=/Images/RecipeHome.png />
-   <img src=/Images/VideogamesHome.png />
-  
-</p>
+
 
 <h3 align="center">Contact Me!</h3>
 

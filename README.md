@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on [Skilnes](https://skilnes.com/)
+- 🔭 I’m currently looking for new projects
 - 🤓 I love to learn new things and teach others what I know.
 - ⚡ Fun fact **I dabble with music and have a background in International Business**
 

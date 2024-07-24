@@ -1,4 +1,8 @@
-<h1 align="center">Hello there! 👋  I'm Andres Cardozo</h1>
+<h1 align="center" >Hello there! 👋  I'm Andres Cardozo</h1>
+
+<a href="https://https://github.com/Arres2/Quoter-app">
+  <img src="/Images/Valorify screenshots.png" /> 
+</a>
 
 <a href="https://skilnes-app.com/">
   <img src=/Images/SkilnesDashboard.png /> 
@@ -57,6 +61,6 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
  </p>
-<img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"/>
+<img align="center" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"/>
 
 

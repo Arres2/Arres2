@@ -2,6 +2,11 @@
 <p align="center" >Some of these links might not function due to multiple reasons this is just a little showcase of the projects I've worked on</p>
 
 
+<p align="center" >Some of these links might not function due to multiple reasons this is just a little showcase of the projects I've worked on</p>
+<a href="https://kanban-board-w-google-sheets-fv21.vercel.app/">
+  <img src="/Images/Google-sheets-kanban-board.png" /> 
+</a>
+
 <a href="https://https://github.com/Arres2/Quoter-app">
   <img src="/Images/Valorify screenshots.png" /> 
 </a>

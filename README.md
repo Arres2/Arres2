@@ -70,6 +70,6 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
  </p>
-<img align="center" src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif"/>
+
 
 
